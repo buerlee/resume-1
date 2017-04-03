@@ -90,7 +90,7 @@
   pdfsubject={},
   pdfkeywords={}
 }
-
+\RequirePackage[english,ngerman]{babel}
 
 %-------------------------------------------------------------------------------
 %                Configuration for directory locations
